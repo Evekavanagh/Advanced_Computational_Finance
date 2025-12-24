@@ -1,4 +1,4 @@
-## Quantitative Methods Coursework
+## Derivative Pricing Coursework
 
 This repository contains coursework, laboratory exercises, and a group project completed as part of my university studies in **quantitative and computational finance**, with a primary focus on the **Advanced Computational Finance** module.
 
