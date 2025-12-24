@@ -1,31 +1,45 @@
-# Quantitative Methods Coursework
+## Quantitative Methods Coursework
 
-This repository contains coursework, laboratory exercises, and applied projects completed as part of my university studies in **quantitative and computational finance**, with a particular focus on the module **Advanced Computational Finance**.
+This repository contains coursework, laboratory exercises, and a group project completed as part of my university studies in **quantitative and computational finance**, with a primary focus on the **Advanced Computational Finance** module.
 
-The material emphasises numerical methods, simulation techniques, and computational approaches used in modern financial modelling.
+The work emphasises numerical methods, Monte Carlo simulation, and variance reduction techniques used in modern derivative pricing and financial risk analysis.
 
 ---
 
 ## Module Focus: Advanced Computational Finance
 
-The coursework in this repository covers topics including:
+The coursework in this repository covers the following topics:
 
-- Derivative pricing using analytical and numerical methods
-- Monte Carlo simulation under risk-neutral dynamics
-- Binomial tree models for European and American options
-- Control variates and antithetic variates for variance reduction
-- Estimation of option sensitivities (Greeks)
-- Pricing of path-dependent and barrier options
-- Portfolio risk and sensitivity analysis
+- Pricing of European and American options using Black–Scholes and binomial tree methods  
+- Monte Carlo simulation under risk-neutral dynamics  
+- Control variates and antithetic variates for variance reduction  
+- Pricing of barrier and path-dependent exotic options  
+- Estimation of option sensitivities (Greeks) via simulation  
+- Portfolio Delta and variance analysis  
+- Evaluation of numerical accuracy using standard deviation and correlation measures  
+
+---
+
+## Applied Project Synopsis
+
+The repository includes a group project involving the pricing of a **path-dependent exotic barrier option** specified by performance thresholds monitored throughout the life of the option.  
+
+The project required:
+- Simulation of daily stock price paths using geometric Brownian motion  
+- Implementation of Monte Carlo pricing methods  
+- Application of variance reduction techniques to improve estimator efficiency  
+- Clear documentation of code, numerical results, and team collaboration  
+
+Supporting materials include the Python implementation, code documentation, presentation slides, and a project diary outlining roles, meetings, and problem resolution.
 
 ---
 
 ## Repository Structure
 
-Each folder corresponds to a specific module or topic and contains:
+The repository contains:
+- Jupyter notebooks with fully worked laboratory and tutorial exercises  
+- Python scripts implementing the group project pricing algorithm  
+- Written documentation explaining methodology and results  
+- Presentation material prepared for a non-technical audience  
 
-- Jupyter notebooks with fully worked implementations
-- Code illustrating numerical and simulation-based methods
-- Outputs and visualisations supporting the analysis
-
-
+All code prioritises clarity, correctness, and transparency over optimisation.
