@@ -1,6 +1,6 @@
 ## Derivative Pricing Coursework
 
-This repository contains coursework, laboratory exercises, and a group project completed as part of my university studies in **quantitative and computational finance**, with a primary focus on the **Advanced Computational Finance** module.
+This repository contains coursework, laboratory exercises, and a group project completed as part of my university studies in **quantitative and computational finance**, with a primary focus on the UCD undergrad **Advanced Computational Finance** module (ACM30110).
 
 The work emphasises numerical methods, Monte Carlo simulation, and variance reduction techniques used in modern derivative pricing and financial risk analysis.
 
